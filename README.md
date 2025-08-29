@@ -72,7 +72,10 @@ The high-level architecture of this project:
 
 ## Tech Stack  
 
-- **Azure Data Lake Storage Gen2 (ADLS Gen2)**  
+- **Azure Cloud)**
+- **SQL**
+- **Python**  
+- **Azure Data Lake Storage Gen2 (ADLS Gen2)**
 - **Azure Data Factory (ADF)**  
 - **Azure Databricks (PySpark)**  
 - **Azure Synapse Analytics**  
